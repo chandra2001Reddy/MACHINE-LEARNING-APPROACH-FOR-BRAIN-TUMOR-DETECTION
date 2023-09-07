@@ -1,0 +1,5 @@
+Human body contain many types of cells with each cell having its separate function. Cells grow and divide in orderly manner to form new cells which is necessary to keep our body healthy. When cells lose their ability to grow and divide normally, an unordered and uncontrolled growth of cells take place which forms a mass of tissue called tumor. Brain tumor is a mass of tissue containing abnormal cells in the brain. 
+
+Although some tumors are not cancerous, detecting them in early stages is very important to start proper treatment. The traditional method to detect brain tumor includes a radiologist analyzing the MRI images to find abnormalities and make decisions.
+
+MRI images also contain intensity problems which image processing can reduce to certain extent to which machines can easily see that a naked eye cannot. Different deep learning methods can be used in detecting tumors, CNN being one of the methods. CNN has variety of applications in facial recognition, analyzing images, classification, understanding climate and many more. CNN is commonly used in the field of image classification.
